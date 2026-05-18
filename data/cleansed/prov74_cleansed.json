@@ -1,0 +1,170 @@
+[
+    {
+        "id_chunk": "prov74_chunk_001",
+        "texto": "Identificação Provimento Nº 74 de 31/07/2018 Apelido --- Temas Ementa Dispõe sobre padrões mínimos de tecnologia da informação para a segurança, integridade e disponibilidade de dados para a continuidade da atividade pelos serviços notariais e de registro do Brasil e dá outras providências. Situação Revogado Situação STF --- Origem Corregedoria Fonte DJe/CNJ nº141/2018, de 01/08/2018, p. 44 Alteração Provimento n. 213, de 20 de fevereiro de 2026 - revogador Legislação Correlata Resolução n. 67, de 3 de março de 2009 (Regimento Interno) Recomendação n. 9, de 7 de março de 2013 Lei n. 8.935, de 18 de novembro de 1994 Observação / CUMPRDEC / CONSULTA Texto Texto Original Texto Compilado O CORREGEDOR NACIONAL DE JUSTIÇA , usando de suas atribuições constitucionais, legais e regimentais e CONSIDERANDO o poder de fiscalização e de normatização do Poder Judiciário dos atos praticados por seus órgãos ( art. 103-B, § 4º, I, II e III, da Constituição Federal de 1988 ); CONSIDERANDO a",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_002",
+        "texto": "compartilhados e de sistema de registro eletrônico que possibilita a realização das atividades notariais e de registro mediante o uso de tecnologias da informação e comunicação; CONSIDERANDO a necessidade de se uniformizar a manutenção de arquivos eletrônicos/mídia digital de segurança dos livros e documentos que compõem o acervo dos serviços notariais e de registro, bem como de se imprimir eficiência a esse procedimento; CONSIDERANDO os resultados obtidos nas inspeções realizadas, em 2016, 2017 e 2018, pela Corregedoria Nacional de Justiça nos serviços notariais e de registro do Brasil, tais como vulnerabilidade e situação de risco das bases de dados e informações afetas aos atos praticados; CONSIDERANDO os estudos técnicos realizados pela Corregedoria Nacional de Justiça sobre a proteção da base de dados, os sistemas, as condições financeiras e o perfil de arrecadação dos serviços de notas e de registro do Brasil; CONSIDERANDO as sugestões apresentadas nos autos do Pedido de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_003",
+        "texto": "Art. 1º Dispor sobre padrões mínimos de tecnologia da informação para a segurança, integridade e disponibilidade de dados para a continuidade da atividade pelos serviços notariais e de registro do Brasil.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_004",
+        "texto": "Art. 2º Os serviços notariais e de registro deverão adotar políticas de segurança de informação com relação a confidencialidade, disponibilidade, autenticidade e integridade e a mecanismos preventivos de controle físico e lógico. Parágrafo único. Como política de segurança da informação, entre outras, os serviços de notas e de registro deverão: I – ter um plano de continuidade de negócios que preveja ocorrências nocivas ao regular funcionamento dos serviços; II – atender a normas de interoperabilidade, legibilidade e recuperação a longo prazo na prática dos atos e comunicações eletrônicas.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_005",
+        "texto": "Art. 3º Todos os livros e atos eletrônicos praticados pelos serviços notariais e de registro deverão ser arquivados de forma a garantir a segurança e a integridade de seu conteúdo. § 1º Os livros e atos eletrônicos que integram o acervo dos serviços notariais e de registro deverão ser arquivados mediante cópia de segurança ( backup ) feita em intervalos não superiores a 24 horas. § 2º Ao longo das 24 horas mencionadas no parágrafo anterior, deverão ser geradas imagens ou cópias incrementais dos dados que permitam a recuperação dos atos praticados a partir das últimas cópias de segurança até pelo menos 30 minutos antes da ocorrência de evento que comprometa a base de dados e informações associadas. § 3º A cópia de segurança mencionada no § 1º deverá ser feita tanto em mídia eletrônica de segurança quanto em serviço de cópia de segurança na internet ( backup em nuvem). § 4º A mídia eletrônica de segurança deverá ser armazenada em local distinto da instalação da serventia, observada a",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_006",
+        "texto": "na internet ( backup em nuvem). § 4º A mídia eletrônica de segurança deverá ser armazenada em local distinto da instalação da serventia, observada a segurança física e lógica necessária. § 5º Os meios de armazenamento utilizados para todos os dados e componentes de informação relativos aos livros e atos eletrônicos deverão contar com recursos de tolerância a falhas.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_007",
+        "texto": "Art. 4º O titular delegatário ou o interino/interventor, os escreventes, os prepostos e os colaboradores do serviço notarial e de registro devem possuir formas de autenticação por certificação digital própria ou por biometria, além de usuário e senha associados aos perfis pessoais com permissões distintas, de acordo com a função, não sendo permitido o uso de “usuários genéricos”.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_008",
+        "texto": "Art. 5º O sistema informatizado dos serviços notariais e de registro deverá ter trilha de auditoria própria que permita a identificação do responsável pela confecção ou por eventual modificação dos atos, bem como da data e hora de efetivação. § 1º A plataforma de banco de dados deverá possuir recurso de trilha de auditoria ativada. § 2º As trilhas de auditoria do sistema e do banco de dados deverão ser preservadas em backup , visando a eventuais auditorias.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_009",
+        "texto": "Art. 6º Os serviços notariais e de registro deverão adotar os padrões mínimos dispostos no anexo do presente provimento, de acordo com as classes nele definidas. Parágrafo único. Todos os componentes de software utilizados pela serventia deverão estar devidamente licenciados para uso comercial, admitindo-se os de código aberto ou os de livre distribuição.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_010",
+        "texto": "Art. 7º Os serviços notariais e de registro deverão adotar rotina que possibilite a transmissão de todo o acervo eletrônico pertencente à serventia, inclusive banco de dados, softwares e atualizações que permitam o pleno uso, além de senhas e dados necessários ao acesso a tais programas, garantindo a continuidade da prestação do serviço de forma adequada e eficiente, sem interrupção, em caso de eventual sucessão.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_011",
+        "texto": "Art. 8º Os padrões mínimos dispostos no anexo do presente provimento deverão ser atualizados anualmente pelo Comitê de Gestão da Tecnologia da Informação dos Serviços Extrajudiciais (COGETISE). § 1º Comporão o COGETISE: I – a Corregedoria Nacional de Justiça, na condição de presidente; II – as Corregedorias de Justiça dos Estados e do Distrito Federal; III – a Associação dos Notários e Registradores do Brasil (ANOREG/BR); IV – o Colégio Notarial do Brasil - Conselho Federal (CNB/CF); V – a Associação Nacional dos Registradores de Pessoas Naturais do Brasil (ARPEN/BR); VI – o Instituto de Registro Imobiliário do Brasil (IRIB/BR); VII – o Instituto de Estudos de Protesto de Títulos do Brasil (IEPTB/BR); e VIII – o Instituto de Registro de Títulos e Documentos e de Pessoas Jurídicas do Brasil (IRTDPJ/BR). § 2º Compete ao COGETISE divulgar, estimular, apoiar e detalhar a implementação das diretrizes do presente provimento e fixar prazos para tanto.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_012",
+        "texto": "Art. 10. A Recomendação CNJ n. 9, de 7 de março de 2013 , e as normas editadas pelas corregedorias de justiça dos Estados e do Distrito Federal permanecem em vigor no que forem compatíveis com o presente provimento.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_013",
+        "texto": "físico ou virtual Serviço de cópias de segurança na internet ( backup em nuvem) Servidor com sistema de alta disponibilidade que permita a retomada do atendimento à população em até 15 minutos após eventual pane do servidor principal Impressoras e scanners (multifuncionais) Switch para a conexão de equipamentos internos Roteador para controlar conexões internas e externas Softwares licenciados para uso comercial Software antivírus e antissequestro Firewall Proxy Banco de dados Mão de obra: pelo menos 2 funcionários do cartório treinados na operação do sistema e das cópias de segurança ou empresa contratada que preste o serviço de manutenção técnica com suporte de pelo menos 2 pessoas CLASSE 3 Serventias com arrecadação acima de R$ 500 mil por semestre, equivalente a 21,5% dos cartórios PRÉ-REQUISITOS Energia estável, rede elétrica devidamente aterrada e link de comunicação de dados mínimo de 10 megabits Endereço eletrônico ( e-mail ) da unidade para correspondência e acesso ao sistema",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov74_chunk_014",
+        "texto": "devidamente aterrada e link de comunicação de dados mínimo de 10 megabits Endereço eletrônico ( e-mail ) da unidade para correspondência e acesso ao sistema Malote Digital Local técnico (CPD) isolado dos demais ambientes preferencialmente por estrutura física de alvenaria ou, na sua impossibilidade, por divisórias. Em ambos os casos, com possibilidade de controle de acesso (porta com chave) restrito aos funcionários da área técnica Local técnico com refrigeração compatível com a quantidade de equipamentos e metragem Unidade de alimentação ininterrupta ( nobreak ) compatível com os servidores instalados, com autonomia de pelo menos 30 minutos Dispositivo de armazenamento ( storage ), físico ou virtual Serviço de cópias de segurança na internet ( backup em nuvem) Servidor com sistema de alta disponibilidade que permita a retomada do atendimento à população em até 15 minutos após eventual pane do servidor principal Impressoras e scanners (multifuncionais) Switch para a conexão de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2018",
+            "tipo": "Provimento",
+            "tema": "Padrões Mínimos de TI e Segurança Notarial",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    }
+]

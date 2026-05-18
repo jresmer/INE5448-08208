@@ -1,0 +1,446 @@
+[
+    {
+        "id_chunk": "prov134_chunk_001",
+        "texto": "PROVIMENTO N. 134, DE 24 DE AGOSTO DE 2022. Estabelece medidas a serem adotadas pelas serventias extrajudiciais em âmbito nacional para o processo de adequação à Lei Geral de Proteção de Dados Pessoais. A CORREGEDORA NACIONAL DE JUSTIÇA, no uso de suas atribuições legais e regimentais, CONSIDERANDO que é missão do Conselho Nacional de Justiça (CNJ) desenvolver políticas judiciárias que promovam a efetividade e a unidade ao Poder Judiciário, incluindo-se as serventias extrajudiciais, para os valores de justiça e de paz social; CONSIDERANDO a competência dos órgãos judiciários para exercerem função regulatória das atividades prestadas nas serventias notariais e registrais (CRFB, art. 236, § 1º); CONSIDERANDO que o § 2º do art. 5º da Emenda Constitucional n. 45/2004, dispõe que, até que entre em vigor o Estatuto da Magistratura, o Conselho Nacional de Justiça, mediante resolução, disciplinará seu funcionamento e definirá as atribuições do Ministro Corregedor; CONSIDERANDO que, em",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_002",
+        "texto": "Nacional de Justiça, mediante resolução, disciplinará seu funcionamento e definirá as atribuições do Ministro Corregedor; CONSIDERANDO que, em cumprimento desse citado mandamento constitucional, o Regimento Interno do Conselho Nacional de Justiça estabelece que compete ao Corregedor Nacional de Justiça, entre outras competências, expedir provimentos, instruções, orientações e outros atos normativos destinados ao aperfeiçoamento das atividades dos serviços auxiliares do Poder Judiciário e dos serviços notariais e de registro (art. 8º, X); CONSIDERANDO a necessidade de regulamentar as disposições da Lei n. 13.709, de 14 de agosto de 2018, que dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural, considerando as resoluções aplicáveis, como a Resolução",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_003",
+        "texto": "de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural, considerando as resoluções aplicáveis, como a Resolução CD/ANPD n. 02, de 27 de janeiro de 2022; CONSIDERANDO o princípio da publicidade que orienta a prática dos atos registrais e notariais, possibilitando, inclusive, que a pessoa possa requerer certidão sem informar o motivo ou o interesse do pedido (Lei n. 6.015/1973, art. 17; Lei n. 8.934/1994, art. 1º); CONSIDERANDO a obrigação das serventias extrajudiciais de cumprir as normas técnicas estabelecidas pelo Poder Judiciário (arts. 37 e 38 da Lei n. 8.935, de 18 de novembro de 1994); CONSIDERANDO o fato de haver tratamento de dados pessoais, sensíveis ou não, na prestação das atividades notariais e registrais, sendo os responsáveis pelas delegações dos serviços extrajudiciais de notas e de registro, no desempenho de suas atividades, controladores de dados pessoais; CONSIDERANDO o compartilhamento de dados pessoais pelos responsáveis das",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_004",
+        "texto": "registro, no desempenho de suas atividades, controladores de dados pessoais; CONSIDERANDO o compartilhamento de dados pessoais pelos responsáveis das serventias extrajudiciais com as centrais de serviços eletrônicos compartilhados, decorrente de previsões legais e normativas; RESOLVE: CAPÍTULO I DAS DISPOSIÇÕES GERAIS Art. 1º Os responsáveis pelas serventias extrajudiciais deverão atender às disposições da Lei Geral de Proteção de Dados Pessoais – LGPD (Lei n. 13.709/2018), independentemente do meio ou do país onde os dados estão localizados, obedecendo a seus fundamentos, princípios e obrigações concernentes à governança do tratamento de dados pessoais. Parágrafo único. Deverão ser cumpridas as disposições previstas na LGPD e nas diretrizes, regulamentos, normas, orientações e procedimentos expedidos pela Autoridade Nacional de Proteção de Dados Pessoais, com base nas competências previstas no artigo 55-J da LGPD. Art. 2º O tratamento de dados pessoais destinado à prática dos atos",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_005",
+        "texto": "de Dados Pessoais, com base nas competências previstas no artigo 55-J da LGPD. Art. 2º O tratamento de dados pessoais destinado à prática dos atos inerentes ao exercício dos respectivos ofícios, consistentes no exercício de competências previstas em legislação específica, será promovido de forma a atender à finalidade da prestação do serviço, na persecução do interesse público, e com os objetivos de executar as competências legais e desempenhar atribuições legais e normativas dos serviços públicos delegados. Art. 3º Fica criada, no âmbito da Corregedoria Nacional de Justiça do Conselho Nacional de Justiça, a Comissão de Proteção de Dados – CPD/CN/CNJ, de caráter consultivo, responsável por propor, independentemente de provocação, diretrizes com critérios sobre a aplicação, interpretação e adequação das Serventias à LGPD, espontaneamente ou mediante provocação pelas Associações. Art. 4º Os responsáveis pelas delegações dos serviços extrajudiciais de notas e de registro, na qualidade de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_006",
+        "texto": "mediante provocação pelas Associações. Art. 4º Os responsáveis pelas delegações dos serviços extrajudiciais de notas e de registro, na qualidade de titulares das serventias, interventores ou interinos, são controladores no exercício da atividade típica registral ou notarial, a quem compete as decisões referentes ao tratamento de dados pessoais. Parágrafo único. Os administradores dos Operadores Nacionais de registros públicos e de Centrais de serviços compartilhados são controladores para fins da legislação de proteção de dados pessoais. Art. 5º O operador, a que se refere o art. 5º da LGPD, é a pessoa natural ou jurídica, de direito público ou privado, externa ao quadro funcional da serventia, contratada para serviço que envolva o tratamento de dados pessoais em nome e por ordem do controlador. CAPÍTULO II DA GOVERNANÇA DO TRATAMENTO DE DADOS PESSOAIS NAS SERVENTIAS Art. 6º Na implementação dos procedimentos de tratamento de dados, o responsável pela serventia extrajudicial deverá",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_007",
+        "texto": "DE DADOS PESSOAIS NAS SERVENTIAS Art. 6º Na implementação dos procedimentos de tratamento de dados, o responsável pela serventia extrajudicial deverá verificar o porte da sua serventia e classificá-la, de acordo com o Provimento n. 74, de 31 de julho de 2018, da Corregedoria Nacional de Justiça (Classe I, II ou III), e observadas as regulamentações da Autoridade Nacional de Proteção de Dados (\"ANPD\"), fazer a adequação à legislação de proteção de dados conforme o volume e a natureza dos dados tratados, e de forma proporcional à sua capacidade econômica e financeira para aporte e custeio de medidas técnicas e organizacionais, adotar ao menos as seguintes providências: I – nomear encarregado pela proteção de dados; II – mapear as atividades de tratamento e realizar seu registro; III – elaborar relatório de impacto sobre suas atividades, na medida em que o risco das atividades o faça necessário; IV – adotar medidas de transparência aos usuários sobre o tratamento de dados pessoais; V –",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_008",
+        "texto": "medida em que o risco das atividades o faça necessário; IV – adotar medidas de transparência aos usuários sobre o tratamento de dados pessoais; V – definir e implementar Política de Segurança da Informação; VI – definir e implementar Política Interna de Privacidade e Proteção de Dados; VII – criar procedimentos internos eficazes, gratuitos, e de fácil acesso para atendimento aos direitos dos titulares; VIII – zelar para que terceiros contratados estejam em conformidade com a LGPD, questionando-os sobre sua adequação e revisando cláusulas de contratação para que incluam previsões sobre proteção de dados pessoais; e IX – treinar e capacitar os prepostos. CAPÍTULO III DO MAPEAMENTO DAS ATIVIDADES DE TRATAMENTO Art. 7º O mapeamento de dados consiste na atividade de identificar o banco de dados da serventia, os dados pessoais objeto de tratamento e o seu ciclo de vida, incluindo todas as operações de tratamento a que estão sujeitos, como a coleta, armazenamento, compartilhamento, descarte,",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_009",
+        "texto": "e o seu ciclo de vida, incluindo todas as operações de tratamento a que estão sujeitos, como a coleta, armazenamento, compartilhamento, descarte, e quaisquer outras operações às quais os dados pessoais estejam sujeitos. § 1º O produto final da atividade de mapeamento será denominado \"Inventário de Dados Pessoais\", devendo o responsável pela serventia: I – garantir que o inventário de dados pessoais contenha os registros e fluxos de tratamento dos dados com base na consolidação do mapeamento e das decisões tomadas a respeito de eventuais vulnerabilidades encontradas, que conterão informações sobre: a) finalidade do tratamento; b) categorias de dados pessoais, e descrição dos dados utilizados nas respectivas atividades; c) a identificação das formas de obtenção/coleta dos dados pessoais; d) base legal; e) descrição da categoria dos titulares; f) se há compartilhamento de dados com terceiros, identificando eventual transferência internacional; g) categorias de destinatários, se houver;",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_010",
+        "texto": "f) se há compartilhamento de dados com terceiros, identificando eventual transferência internacional; g) categorias de destinatários, se houver; h) prazo de conservação dos dados; e i) medidas de segurança organizacionais e técnicas adotadas. II – elaborar plano de ação para a implementação dos novos processos, procedimentos, controles e demais medidas internas, incluindo a revisão e criação de documentos, bem como as formas de comunicação com os titulares e a Autoridade Nacional de Proteção de Dados (ANPD), quando necessária; III – conduzir a avaliação das vulnerabilidades (gap assessment) para análise de lacunas em relação à proteção de dados pessoais no que se refere às atividades desenvolvidas na serventia; IV – tomar decisões diante das vulnerabilidades encontradas e implementar as adequações necessárias e compatíveis com a tomada de decisões; V – atualizar, sempre que necessário, não podendo ultrapassar um ano, o inventário de dados; e VI – arquivar o inventário de dados",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_011",
+        "texto": "de decisões; V – atualizar, sempre que necessário, não podendo ultrapassar um ano, o inventário de dados; e VI – arquivar o inventário de dados pessoais na serventia e disponibilizá- lo em caso de solicitação da Corregedoria Geral da Justiça, da Autoridade Nacional de Proteção de Dados Pessoais ou de outro órgão de controle. § 2º O responsável pela serventia extrajudicial poderá utilizar formulários e programas de informática adaptados para cada especialidade de serventia para o registro do fluxo dos dados pessoais, abrangendo todas as fases do seu ciclo de vida durante o tratamento, tais como coleta, armazenamento e compartilhamento, eventualmente disponibilizados por associações de classe dos notários e registradores. CAPÍTULO IV DA REVISÃO DOS CONTRATOS Art. 8º A serventia deverá revisar e adequar todos os contratos que envolvam as atividades de tratamento de dados pessoais às normas de privacidade e proteção de dados pessoais, considerando a responsabilização dos agentes de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_012",
+        "texto": "as atividades de tratamento de dados pessoais às normas de privacidade e proteção de dados pessoais, considerando a responsabilização dos agentes de tratamento prevista na lei, observando os seguintes procedimentos: I – revisar todos os contratos celebrados com os seus empregados, incluindo a obrigatoriedade de respeito às normas de privacidade e proteção de dados nos contratos ou em regulamentos internos; II – revisar os modelos existentes de minutas de contratos e convênios externos, que envolvam atividades de tratamento de dados pessoais, incluindo compartilhamento de dados; III – elaborar “Termos de Tratamento de Dados Pessoais” para assinatura com os operadores, sempre que possível, incluindo as informações sobre quais dados pessoais são tratados, quem são os titulares dos dados tratados, para quais finalidades e quais são os limites do tratamento; IV – incluir cláusulas de descarte de dados pessoais nos contratos, convênios e instrumentos congêneres, conforme os parâmetros da",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_013",
+        "texto": "do tratamento; IV – incluir cláusulas de descarte de dados pessoais nos contratos, convênios e instrumentos congêneres, conforme os parâmetros da finalidade (pública) e necessidade acima indicados; V – elaborar orientações e procedimentos para as contratações futuras, no intuito de deixá-los em conformidade com a lei de regência; VI – criar procedimentos de auditoria regulares para realizar a gestão de terceiros com quem houver o compartilhamento de dados pessoais. Art. 9º Os responsáveis pelas serventias extrajudiciais deverão exigir de seus fornecedores de tecnologia, automação e armazenamento a adequação às exigências da LGPD quanto aos sistemas e programas de gestão de dados internos utilizados. CAPÍTULO V DO ENCARREGADO Art. 10. Deverá ser designado o encarregado pelo tratamento de dados pessoais, conforme o disposto no art. 41 da LGPD, consideradas as seguintes particularidades: I – os responsáveis pelas Serventias Extrajudiciais poderão terceirizar o exercício da função de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_014",
+        "texto": "da LGPD, consideradas as seguintes particularidades: I – os responsáveis pelas Serventias Extrajudiciais poderão terceirizar o exercício da função de Encarregado mediante a contratação de prestador de serviços, pessoa física ou pessoa jurídica, desde que apto ao exercício da função; II – a função do Encarregado não se confunde com a do responsável pela delegação dos serviços extrajudiciais de notas e de registro; III – a nomeação do Encarregado será promovida mediante contrato escrito, a ser arquivado em classificador próprio, de que participarão o controlador na qualidade de responsável pela nomeação e o Encarregado; e IV – a nomeação de Encarregado não afasta o dever de atendimento pelo responsável pela delegação dos serviços extrajudiciais de notas e de registro, quando for solicitado pelo titular dos dados pessoais. § 1º Serventias classificadas como “Classe I” e “Classe II” pelo Provimento n. 74, de 31 de julho de 2018, da Corregedoria Nacional de Justiça, poderão designar",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_015",
+        "texto": "atos em que o tratamento de dados pessoais possa gerar risco às liberdades civis e aos direitos fundamentais do titular, de acordo com as orientações expedidas pela ANPD. A elaboração do Relatório deverá se atentar às seguintes instruções: I – adotar metodologia que resulte na indicação de medidas, salvaguardas e mecanismos de mitigação de risco; II – elaborar o documento previamente a contrato ou convênio que seja objeto da avaliação feita por meio do Relatório; III – franquear, a título de transparência, aos afetados a possibilidade de se manifestarem a respeito do conteúdo; e IV – elaborar o documento previamente à adoção de novos procedimentos ou tecnologias. § 1º Para o cumprimento das providências de que trata o caput do artigo, poderão ser fornecidos, pelas entidades representativas de classe, modelos, formulários e programas de informática adaptados para cada especialidade de serventia para elaboração de Relatório de Impacto. § 2º Serventias Classe I e II poderão adotar modelo",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_016",
+        "texto": "dos arts. 46 e seguintes da LGPD, por meio de: I – elaboração de política de segurança da informação que contenha: a) medidas de segurança técnicas e organizacionais; b) previsão de adoção de mecanismos de segurança, desde a concepção de novos produtos ou serviços (security by design) (art. 46, § 1º, da LGPD); e c) plano de resposta a incidentes (art. 48 da LGPD). II – avaliação do sistemas e bancos de dados em que houver tratamento de dados pessoais e/ou tratamento de dados sensíveis, submetendo tais resultados à ciência do Encarregado pelo tratamento de dados pessoais da serventia; III – avaliação da segurança de integrações de sistemas; IV – análise da segurança das hipóteses de compartilhamento de dados pessoais com terceiros; e V – realização de treinamentos. Art. 13. O plano de resposta a incidentes de segurança envolvendo dados pessoais deverá prever a comunicação, pelos responsáveis por serventias extrajudiciais, ao titular, à Autoridade Nacional de Proteção de Dados, ao Juiz",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_017",
+        "texto": "deverá prever a comunicação, pelos responsáveis por serventias extrajudiciais, ao titular, à Autoridade Nacional de Proteção de Dados, ao Juiz Corregedor Permanente e à Corregedoria Geral da Justiça, no prazo máximo de 48 horas úteis, contados a partir do seu conhecimento, de incidente que possa acarretar risco ou dano relevante aos titulares, com esclarecimento da natureza do incidente e das medidas adotadas para a apuração das suas causas e a mitigação de novos riscos e dos impactos causados aos titulares dos dados. Art. 14. A inutilização e eliminação de documentos em conformidade com a Tabela de Temporalidade de Documentos prevista no Provimento n. 50/2015, da Corregedoria Nacional de Justiça, será promovida de forma a impedir a identificação dos dados pessoais neles contidos. Parágrafo único. A inutilização e eliminação de documentos não afasta os deveres previstos na Lei n. 13.709, de 14 de agosto de 2018, em relação aos dados pessoais que remanescerem em índices,",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_018",
+        "texto": "de documentos não afasta os deveres previstos na Lei n. 13.709, de 14 de agosto de 2018, em relação aos dados pessoais que remanescerem em índices, classificadores, indicadores, banco de dados, arquivos de segurança ou qualquer outro modo de conservação adotado na unidade dos serviços extrajudiciais de notas e de registro. Art. 15. O responsável pela serventia extrajudicial, sempre que possível: I – digitalizará os documentos físicos ainda utilizados; e II – armazenará os documentos físicos que contenham dados pessoais e dados pessoais sensíveis em salas ou compartimentos com controle de acesso. Parágrafo único. Após a digitalização, o documento físico poderá ser eliminado, respeitados as disposições e os prazos definidos no Provimento n. 50, de 28 de setembro de 2015, da Corregedoria Nacional de Justiça. CAPÍTULO VIII DO TREINAMENTO Art. 16. As serventias deverão realizar treinamentos para implementação da cultura de privacidade e proteção de dados pessoais, bem como para a",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_019",
+        "texto": "Art. 16. As serventias deverão realizar treinamentos para implementação da cultura de privacidade e proteção de dados pessoais, bem como para a capacitação de todos os envolvidos no tratamento dos dados pessoais sobre os novos controles, processos e procedimentos, observando o seguinte: I – capacitar todos os trabalhadores da serventia a respeito dos procedimentos de tratamento de dados pessoais; II – realizar treinamentos com todos os novos trabalhadores; III – manter treinamentos regulares, de forma a reciclar o conhecimento sobre o assunto e atualizar os procedimentos adotados, sempre que necessário; IV – organizar, por meio do Encarregado e eventual equipe de apoio, programa de conscientização a respeito dos procedimentos de tratamento de dados, que deverá atingir todos os trabalhadores; e V – manter os comprovantes da participação em cursos, conferências, seminários ou qualquer modo de treinamento proporcionado pelo controlador aos operadores e Encarregado, com indicação do",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_020",
+        "texto": "em cursos, conferências, seminários ou qualquer modo de treinamento proporcionado pelo controlador aos operadores e Encarregado, com indicação do conteúdo das orientações transmitidas. Parágrafo único: O responsável pela serventia extrajudicial poderá solicitar apoio à entidade de classe para capacitação de seus prepostos. CAPÍTULO IX DAS MEDIDAS DE TRANSPARÊNCIA E ATENDIMENTO A DIREITOS DE TITULARES Art. 17. Como medida de transparência e prezando pelos Direitos dos Titulares de dados, deverá o responsável pela serventia elaborar, por meio do canal do próprio Encarregado, se terceirizado, e/ou em parceria com as respectivas entidades de classe: I – canal eletrônico específico para atendimento das requisições e/ou reclamações apresentadas pelos titulares dos dados pessoais; e II – fluxo para atendimento aos direitos dos titulares de dados pessoais, requisições e/ou reclamações apresentadas, desde o seu ingresso até o fornecimento da resposta. Art. 18. Deverão ser divulgadas em local",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_021",
+        "texto": "pessoais, requisições e/ou reclamações apresentadas, desde o seu ingresso até o fornecimento da resposta. Art. 18. Deverão ser divulgadas em local de fácil visualização e consulta pelo público as informações básicas a respeito dos dados pessoais e procedimentos de tratamento, os direitos dos titulares dos dados, o canal de atendimento disponibilizado aos titulares de dados para que exerçam seus direitos e os dados de qualificação do encarregado, com nome, endereço, e meios de contato. Art. 19. Deverão ser disponibilizadas pelos responsáveis pelas serventias informações adequadas a respeito dos procedimentos de tratamento de dados pessoais, nos termos do art. 9º da LGPD, por meio de: I – aviso de privacidade e proteção de dados; II – avisos de cookies no portal de cada serventia, se houver; e III – aviso de privacidade para navegação no website da serventia, se houver. Art. 20. A gratuidade do livre acesso dos titulares de dados (art. 6º, IV, da LGPD) será restrita aos dados pessoais",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_022",
+        "texto": "website da serventia, se houver. Art. 20. A gratuidade do livre acesso dos titulares de dados (art. 6º, IV, da LGPD) será restrita aos dados pessoais constantes nos sistemas administrativos da serventia, não abrangendo os dados próprios do acervo registral e não podendo, em qualquer hipótese, alcançar ou implicar a prática de atos inerentes à prestação dos serviços notariais e registrais dotados de fé-pública. § 1º Todo documento obtido por força do exercício do direito de acesso deverá conter em seu cabeçalho os seguintes dizeres: \"Este não é um documento dotado de fé pública, não se confunde com atos inerentes à prestação do serviço notarial e registral nem substitui quaisquer certidões, destinando-se exclusivamente a atender aos direitos do titular solicitante quanto ao acesso a seus dados pessoais\". § 2º A expedição de certidões deverá ser exercida conforme legislação específica registral e notarial e taxas e emolumentos cobrados conforme regulamentação própria. § 3º Mantém-se o",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_023",
+        "texto": "ser exercida conforme legislação específica registral e notarial e taxas e emolumentos cobrados conforme regulamentação própria. § 3º Mantém-se o disposto quanto aos titulares beneficiários da isenção de emolumentos, na forma da lei específica. § 4º O notário e/ou registrador coletarão as informações necessárias para identificação segura do solicitante, com o objetivo de garantir a confidencialidade. CAPÍTULO X DAS CERTIDÕES E COMPARTILHAMENTO DE DADOS COM CENTRAIS E ÓRGÃOS PÚBLICOS Art. 21. Na emissão de certidão o Notário ou o Registrador deverá observar o conteúdo obrigatório estabelecido em legislação específica, adequado e proporcional à finalidade de comprovação de fato, ato ou relação jurídica. Parágrafo único. Cabe ao Registrador ou Notário, na emissão de certidões, apurar a adequação, necessidade e proporcionalidade de particular conteúdo em relação à finalidade da certidão, quando este não for explicitamente exigido ou quando for apenas autorizado pela legislação específica.",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_024",
+        "texto": "conteúdo em relação à finalidade da certidão, quando este não for explicitamente exigido ou quando for apenas autorizado pela legislação específica. Art. 22. Em caso de requerimento de certidões por via telemática, havendo necessidade de justificação do interesse na certidão, o solicitante será identificado por meio idôneo, reconhecido pela entidade responsável pela tramitação do serviço eletrônico compartilhado da respectiva especialidade cartorial. Art. 23. O compartilhamento de dados com centrais de serviços eletrônicos compartilhados é compatível com a proteção de dados pessoais, devendo as centrais observar a adequação, necessidade e persecução da finalidade dos dados a serem compartilhados, bem como a maior eficiência e conveniência dos serviços registrais ou notariais ao cidadão. Parágrafo único. Deverá ser dada preferência e envidados esforços no sentido de adotar a modalidade de descentralização das bases de dados entre a central de serviços eletrônicos compartilhados e as",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_025",
+        "texto": "esforços no sentido de adotar a modalidade de descentralização das bases de dados entre a central de serviços eletrônicos compartilhados e as serventias, por meio do acesso pelas centrais às informações necessárias para a finalidade perseguida, evitando-se a transferência de bases de dados, a não ser quando necessária para atingir a finalidade das centrais ou quando o volume de requisições ou outro aspecto técnico prejudicar a eficiência da prestação do serviço. Art. 24. O compartilhamento de dados com órgãos públicos pressupõe lei ou ato normativo do órgão solicitante, ou convênio ou outro instrumento formal com objeto compatível com as atribuições e competências legais da atividade notarial e registral. § 1º O compartilhamento deverá ser oferecido na modalidade de fornecimento de acesso a informações específicas adequadas, necessárias e proporcionais ao atendimento das finalidades presentes na política pública perseguida pelo órgão, observando-se os protocolos de segurança da",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_026",
+        "texto": "e proporcionais ao atendimento das finalidades presentes na política pública perseguida pelo órgão, observando-se os protocolos de segurança da informação e evitando-se a transferência de bancos de dados, a não ser quando estritamente necessária para a persecução do interesse público. § 2º Caso o registrador ou notário entenda haver desproporcionalidade na solicitação de compartilhamento de dados pelo órgão público, deverá consultar a Corregedoria Nacional de Justiça, no prazo de 24 horas, oferecendo suas razões, à luz do disposto neste artigo. Art. 25. O responsável pela serventia extrajudicial efetuará, sempre que possível, aplicável e compatível com a finalidade perseguida e o tipo de tratamento, a criptografia ou a pseudonimização de dados pessoais para o acesso a informações ou transferência dos dados para terceiros, inclusive centrais de serviços eletrônicos compartilhados e órgãos públicos. Art. 26. Os registradores e notários remeterão dados com a finalidade da formação de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_027",
+        "texto": "de serviços eletrônicos compartilhados e órgãos públicos. Art. 26. Os registradores e notários remeterão dados com a finalidade da formação de indicadores estatísticos às entidades previstas em lei ou regulamento, garantindo que sejam anonimizados na origem, nos termos da Lei Geral de Proteção de Dados Pessoais. Art. 27. Na correição anual será verificada pelo corregedor permanente a adaptação de suas práticas de tratamento de dados pessoais à Lei Geral de Proteção de Dados Pessoais (LGPD) e a este Provimento. CAPÍTULO XI DO TABELIONATO DE NOTAS Art. 28. A emissão e o fornecimento de certidão de ficha de firma e dos documentos depositados por ocasião de sua abertura somente poderão ser realizados a pedido do titular referido nos documentos, seus representantes legais e mandatários com poderes especiais ou mediante decisão judicial. Art. 29. O fornecimento de certidões para os solicitantes legitimados pode ocorrer por meio de cópia reprográfica. Art. 30. O pedido de lavratura de ata",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_028",
+        "texto": "de todas as partes; o documento de identificação, ou, na sua falta, a filiação; o número de CPF; a nacionalidade; o estado civil; a existência de união estável; a profissão e o domicílio, sendo dispensada a inserção de endereço eletrônico e número de telefone. CAPÍTULO XII DO REGISTRO DE TÍTULOS E DOCUMENTOS E CIVIL DE PESSOAS JURÍDICAS Art. 34. As notificações que contenham dados pessoais tratados devem ser feitas preferencialmente pelo Registro de Títulos e Documentos da circunscrição do destinatário. Quando assim não ocorrer, a notificação deverá ser enviada juntamente com folha adicional informativa com os dados tratados do notificado. CAPÍTULO XIII DO REGISTRO CIVIL DE PESSOAS NATURAIS Art. 35. É livre o acesso às informações constantes nos livros de Registro Civil das Pessoas Naturais, por meio de certidões de breve relato, com as informações regulamentadas pelo Provimento n. 63/2017, da Corregedoria Nacional de Justiça, independentemente de requerimento ou de identificação do",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_029",
+        "texto": "informações regulamentadas pelo Provimento n. 63/2017, da Corregedoria Nacional de Justiça, independentemente de requerimento ou de identificação do requerente. Art. 36. As certidões de registro civil em geral, inclusive as de inteiro teor, requeridas pelos próprios interessados, seus representantes legais, mandatários com poderes especiais, serão expedidas independentemente de autorização do Juiz Corregedor Permanente. § 1º Nas hipóteses em que a emissão da certidão for requerida por terceiros e a certidão contiver dados sensíveis, somente será feita a expedição mediante a autorização do juízo competente. § 2º Após o falecimento do titular do dado sensível, as certidões de que trata o caput deste artigo poderão ser fornecidas aos parentes em linha reta, independentemente de autorização judicial. Art. 37. Nas certidões de breve relato deverão constar somente as informações previstas no Provimento CN n. 63/2017, sendo que qualquer outra informação solicitada pela parte constante do",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_030",
+        "texto": "teor quando os dados solicitados forem restritos, sensíveis ou sigilosos. § 1º São considerados elementos sensíveis os elencados no inciso II do art. 5º da Lei n. 13.709/2018, ou outros, desde que previstos em legislação específica. § 2º São considerados elementos restritos os previstos nos artigos 45 e 95 da Lei n. 6.015/1973, no artigo 6º e seus parágrafos, da Lei n. 8.560/1992, e no artigo 5º do Provimento n. 73/ 2018, da Corregedoria Nacional de Justiça, ou outros, desde que previstos em legislação específica. § 3º São considerados elementos sigilosos os previstos no parágrafo 7º do artigo 57 da Lei n. 6.015/1973, ou outros, desde que previstos em legislação específica. Art. 39. A emissão de certidão em inteiro teor sempre depende de requerimento escrito com firma reconhecida do requerente ou com assinatura digital nos padrões ICP-Brasil, no padrão do sistema gov.br ou com assinatura confrontada com o documento de identidade original. § 1º O reconhecimento de firma será dispensado",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_031",
+        "texto": "autorização judicial ou, ainda, quando o documento solicitado for público com publicidade geral e irrestrita. Parágrafo único. Após o falecimento do titular, a certidão de que trata o caput deste artigo poderá ser fornecida ao solicitante que apresentar a certidão de óbito. Art. 43. É facultado a qualquer interessado, independentemente de justificação ou de requerimento, realizar buscas nos índices dos Registros Civis das Pessoas Naturais, respeitados os emolumentos estabelecidos pelas legislações estaduais. Parágrafo único. A realização de buscas baseadas em outras fontes, além dos índices de registros dos livros do cartório, somente será autorizada mediante requerimento escrito fundamentado, sujeito à análise de finalidade pelo Oficial do Registro Civil das Pessoas Naturais, de cuja decisão, em caso de indeferimento, caberá revisão pelo juiz competente. Art. 44. O edital de proclamas conterá tão somente o nome, o estado civil, a filiação, a cidade e circunscrição do domicílio dos",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_032",
+        "texto": "arquivamento no registro. § 2º Pedidos de certidão de documentos arquivados em cartório para a qual não haja previsão legal específica de expedição dependem de identificação do requerente e indicação da finalidade, aplicando-se a regra do § 4º deste artigo. § 3º Pedidos de certidão, busca e informações apresentados em bloco, ainda que instruídos com a numeração dos atos a serem certificados, dependem de identificação do requerente e indicação da finalidade. § 4º Na hipótese do parágrafo anterior, caracterizada tentativa de tratamento de dados em desacordo com as finalidades do Registro de Imóveis e com os princípios da Lei Geral de Proteção de Dados Pessoais, poderá o oficial recusar o fornecimento em nota fundamentada, do que caberá revisão pelo juízo competente. Art. 46. Ressalvadas as hipóteses que tenham previsão legal ou normativa expressa, como as certidões de filiação de imóveis, ou de propriedade com negativa de ônus e alienações, ou outras compatíveis com as finalidades dos",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_033",
+        "texto": "expressa, como as certidões de filiação de imóveis, ou de propriedade com negativa de ônus e alienações, ou outras compatíveis com as finalidades dos registros de imóveis e com os princípios da Lei Geral de Proteção de Dados, não serão expedidas certidões cujo conteúdo envolva informações sobre dados pessoais extraídos de mais de uma matrícula, assentamento do registro auxiliar, transcrição ou inscrição. Art. 47. As certidões dos imóveis que já forem objeto de matrícula eletrônica, após a “primeira qualificação eletrônica”, serão expedidas, independentemente de indicação de finalidade, em formato nato-digital estruturado, contendo a situação jurídica atual do imóvel, ou seja, sua descrição, titularidade e os ônus reais não cancelados. Parágrafo único. A expedição de certidão de atos anteriores da cadeia filiatória do imóvel depende de identificação segura do requerente e de indicação da finalidade. Art. 48. O atendimento a requisições de buscas fundadas exclusivamente no indicador",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_034",
+        "texto": "identificação segura do requerente e de indicação da finalidade. Art. 48. O atendimento a requisições de buscas fundadas exclusivamente no indicador pessoal ou real pressupõe a identificação segura do solicitante, bem como a indicação da finalidade, de tudo mantendo-se o registro em meio físico ou virtual. Art. 49. O fornecimento, pelo registrador, por qualquer meio, de informações sobre o registro não veiculadas por certidão dependerá da segura identificação do solicitante, e da indicação da sua finalidade, exceto nos casos em que o solicitante figure no registro em questão. Art. 50. Serão formados prontuários físicos ou digitais contendo os dados de identificação e indicação de finalidade em todas as hipóteses em que estas tenham sido exigidas. Parágrafo único. O titular dos dados pessoais solicitados terá direito a requisitar as informações contidas nos prontuários formados em virtude de buscas ou pedidos de informações e certidões para os quais foi exigida a identificação do",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_035",
+        "texto": "informações contidas nos prontuários formados em virtude de buscas ou pedidos de informações e certidões para os quais foi exigida a identificação do solicitante e a indicação de finalidade. CAPÍTULO XV DO PROTESTO DE TÍTULOS E OUTROS DOCUMENTOS DE DÍVIDA Art. 51. Das certidões individuais de protesto deverão constar, sempre que disponíveis, os dados enumerados no art. 17, parágrafo único, do Provimento 87, da Corregedoria Nacional de Justiça, excetuados endereço completo, endereço eletrônico e telefone do devedor. Art. 52. As certidões em forma de relação sobre inadimplementos por pessoas naturais serão elaboradas pelo nome e CPF dos devedores, devidamente identificados, devendo abranger protestos por falta de pagamento, de aceite ou de devolução, vedada exclusão ou omissão, espécie do título ou documento de dívida, data do vencimento da dívida, data do protesto da dívida e valor protestado. Art. 53. Nas informações complementares requeridas em lote ou em grande volume poderão",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_036",
+        "texto": "da expedição do edital para intimação do devedor, o tabelião poderá buscar outros endereços em sua base de dados, endereços em que outros tabeliães realizaram a intimação, desde que na mesma base da sua competência territorial, ou endereços eletrônicos, a serem compartilhados por meio da CENPROT, bem como endereços constantes de bases de natureza jurídica pública e de acesso livre e disponível ao tabelião. Parágrafo único. A CENPROT deverá compartilhar entre os tabeliães os endereços em que foi possível a realização da intimação de devedores, acompanhado do CNPJ ou CPF do intimado, bem como da data de efetivação. Art. 57. A declaração eletrônica de anuência para fins de cancelamento de protesto, recebida na forma prevista no art. 17, inciso V, do Provimento 87, da Corregedoria Nacional de Justiça, poderá ser comunicada ao interessado por meio dos Correios, empresas especializadas, portador do próprio tabelião ou correspondência eletrônica, via internet ou qualquer outro aplicativo de",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    },
+    {
+        "id_chunk": "prov134_chunk_037",
+        "texto": "meio dos Correios, empresas especializadas, portador do próprio tabelião ou correspondência eletrônica, via internet ou qualquer outro aplicativo de mensagem, ficando autorizado o encaminhamento de boleto bancário, outro meio de pagamento ou instruções para pagamento dos emolumentos e despesas relativos ao cancelamento do protesto. CAPÍTULO XVI DAS DISPOSIÇÕES FINAIS Art 58. As Corregedorias Gerais da Justiça dos Estados e do Distrito Federal fiscalizarão a efetiva observância das normas previstas neste Provimento pelas unidades do serviço extrajudicial, expedindo as normas complementares que se fizerem necessárias, bem como promoverão, no prazo estabelecido no art. 59, a adequação das normas locais que contrariarem as regras e diretrizes constantes do presente provimento. Art. 59. Este provimento entra em vigor na data de sua publicação, observado o prazo de 180 (cento e oitenta) dias para adequação das serventias extrajudiciais às disposições contidas neste documento. Ministra MARIA",
+        "metadados": {
+            "fonte": "Corregedoria Nacional de Justiça (CNJ)",
+            "data": "2022",
+            "tipo": "Provimento",
+            "tema": "Adequação das Serventias Extrajudiciais à LGPD",
+            "status": "legítimo",
+            "finalidade_experimento": "contexto_base"
+        }
+    }
+]
